@@ -7,18 +7,13 @@
   "dependencies": {
     "@sailshq/lodash": "^3.10.3",
     "bcrypt": "^5.0.1",
-    "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.5.9",
     "mongoose": "^5.12.13",
-    "nodemailer": "^6.4.11",
-    "nodemailer-express-handlebars": "^4.0.0",
-    "nodemailer-sendgrid": "^1.0.3",
     "sails": "^1.2.4",
     "sails-hook-organics": "^2.2.0",
     "sails-hook-orm": "^2.1.1",
     "sails-hook-sockets": "^2.0.0",
-    "sails-mongo": "^2.0.0",
-    "sails-postgresql": "^1.0.2"
+    "sails-mongo": "^2.0.0"
   },
   "devDependencies": {
     "eslint": "5.16.0"

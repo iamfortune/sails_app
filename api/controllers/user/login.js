@@ -50,8 +50,6 @@ module.exports = {
           exits.passwordMismatch({ error: error.message });
         });
 
-      const token = await sails.helpers.generateNewJwtToken(user.email);
-
       return exits.success({
         message: `${user.email} is logged in`,
         data: user,
