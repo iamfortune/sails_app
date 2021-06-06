@@ -1,4 +1,4 @@
-# logrocket-sails-api
+# Sails API
 
 a [Sails v1](https://sailsjs.com) application
 
@@ -14,7 +14,7 @@ a [Sails v1](https://sailsjs.com) application
 
 ### Version info
 
-This app was originally generated on Thu Aug 20 2020 08:51:43 GMT+0100 (West Africa Standard Time) using Sails v1.2.4.
+This app was originally generated on Fri Jun 4 2021 08:51:43 GMT+0100 (West Africa Standard Time) using Sails v1.2.4.
 
 <!-- Internally, Sails used [`sails-generate@1.17.2`](https://github.com/balderdashy/sails-generate/tree/v1.17.2/lib/core-generators/new). -->
 
